@@ -6,7 +6,7 @@ This repo contains the c code for PIC12F508 µC. I built the project using MPLAB
 ![CIRCUIT ON PREFBOARD](./image/circuit-on-prefboard.png)
 **Figure:** Circuit on a Prefboard
 
-![SCHEMATIC CIRCUIT DIAGRAM](./image/schematic.png)
+![SCHEMATIC CIRCUIT DIAGRAM](schematic.png)
 **Figure:** Schematic Circuit Diagram
 
 -[Watch Video on YouTube]()
